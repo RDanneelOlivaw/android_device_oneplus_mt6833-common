@@ -1,1 +1,1 @@
-# Android Common Device tree for Xiaomi MT6833 Devices
+# Android Common Device tree for OnePlus MT6833 Devices
